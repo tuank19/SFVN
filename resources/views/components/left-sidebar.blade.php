@@ -24,7 +24,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="/invoice">
+                    <a href="/customer">
                         <i class="dripicons-document"></i>
                         <span> Customer </span>
                     </a>
